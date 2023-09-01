@@ -11,28 +11,23 @@ bibliography: 2023_whatsdigital.bib
 
 # Introduction
 
-WHat's digital in Digital Humanities? The answer should be obvious, but:
+<!--
 
-- digital
-- humanities
-- Digital Humanities
+Multilayered digitality within a western environment (peer review, etc). Quelques remises en cause: THATCamp, blogging, social media).
 
-have no easy definition, all the more that there are variations from one country to the other. We could also add that their history, their temporality -- from a centuries old word (Humanities) to an expression coined around 2004 for Digital Humanities -- are quite different. 
+-->
 
-- digital => latin => fingers, by extension numbers under 10 (counting on fingers) and starting around 1945: what is related to computer, opposed to analog
-- humanities => humanity => human => latin
+Fifteen years ago, the author of this chapter was aprticipating to a digital humanities unconference (see: thatcamp.org): among the many topics discussed, the participants wondered if 'analog' Humanities and 'digital' humanities would one day converge. One answer came out: it would not be possible to see both converge without traditional humanities adopting digital humanities' practices (and for instance unconferences, openness -- open access, open data and so on -- etc.) Those practices were not all digital *per se* -- some were induced by the use of digital tools, but others seem more to be a question of sheer traditions, not necessarily linked to the use of any digital tools. Wikis, for instance, did not invent collaboration.
 
-Two words from latin, but with meanings that are older for humanities, with strong traditions, and more recent with 'digital', and a tradition that is being built, in way. That's what's digital humanities is trying to confront. 
+WHat's digital in Digital Humanities? though the answer seems obvious, but the three words or expression -- 'digital', 'humanities', 'digital humanities' -- of this expression bear ambiguities and ambivalences. None of them have easy definition, all the more that there are variations from one country to the other. We could also add that their history, their temporality -- from a centuries old word (Humanities) to an expression coined around 2004 for Digital Humanities -- are quite different. 'Digital' -- from latin, related to fingers and by extension numbers under 10 and, starting around 1945, what is related to computer opposed to analog technologies -- and 'Humanities', both latin words, but with meanings that are older for humanities, with strong traditions, and more recent with 'digital' (its change of meaning at least), and a tradition that is being built, in a way. That's what's digital humanities is trying to confront, centuries old traditions and a decades old other one.  
 
-Questioninig the digitality of Digital Humanities is questioning those definitions and temporalities and how they are confronting within the term "digital humanities".
-
-The aim of this chapter proposal is to evaluate the *digitality* of digital humanities. In *The Archived Web*, Niels Brügger notes that many publications about "digital and X" (p. XX) have been published, without much reflection on what *digital* means. If we stand from a particular use of electricity that is at the center of the binary system that is a computer, *digital* means the use of '0' (no electricity) and '1' (electricity) as an alphabet (Finneman, quoted by Brügger). The problem of such a definition of *digital* is that 0/1 are to be seen as building blocks. Let's then follow Brügger:
+Questioninig the digitality of Digital Humanities is questioning those definitions and temporalities and how they are confronting within the term "digital humanities". The aim of this chapter proposal is to evaluate the *digitality* of digital humanities. In *The Archived Web*, Niels Brügger notes that many publications about "digital and X" (p. XX) have been published, without much reflection on what *digital* means. If we stand from a particular use of electricity that is at the center of the binary system that is a computer, *digital* means the use of '0' (no electricity) and '1' (electricity) as an alphabet (Finneman, quoted by Brügger). The problem of such a definition of *digital* is that 0/1 are to be seen as building blocks. Let's then follow Brügger:
 
 >  In the present context, the term digitality is used to capture the specific ways in which the digital bits are materialized and combined in a concrete media artifact and in concrete texts.
 
-So, what's the digitality of Digital Humanities? In other words, what's *digital* in the *digital* humanities?
+So, what's the digitality of Digital Humanities? In other words, what's *digital* in the *digital* humanities? How did (still do) Digital Humanities set up specific ways to transform digital bits, to materialize them into concrete artefacts, and maybe more cultural ones (see notion of 'digital' as a culture ie Doueihi).  
 
-The answer to this question depends on *how* Digital Humanities can be defined. And this *how* is far from easy. Based on a database made of *Day of DH* quotes, Jason Heppler created the website *What is Digital Humanities* that relies on 817 different definitions of DH.
+The answer to those question depends on *how* Digital Humanities can be defined. And this *how* is far from easy. Based on a database made of *Day of DH* quotes, Jason Heppler created the website *What is Digital Humanities* that relies on 817 different definitions of DH.
 
 Def. companion:
 
