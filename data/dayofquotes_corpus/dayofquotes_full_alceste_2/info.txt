@@ -1,0 +1,21 @@
+
++-+-+-+-+-+-+-+-+
+|i|R|a|M|u|T|e|Q| - Fri Sep  1 12:09:13 2023
++-+-+-+-+-+-+-+-+
+
+
+Nombre de textes: 791
+Nombre de segments de texte: 791
+Nombre de formes: 3402
+Nombre d'occurrences: 29591
+Nombre de lemmes: 2698
+Nombre de formes actives: 2282
+Nombre de formes supplémentaires: 416
+Nombre de formes actives avec une fréquence >= 3: 739
+Moyenne de formes par segment: 37.409608
+Nombre de classes: 13
+649 textes classés sur 791 (82.05%)
+
+###########################
+temps : 0h 0m 21s
+###########################

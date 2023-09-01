@@ -27,12 +27,16 @@ Questioninig the digitality of Digital Humanities is questioning those definitio
 
 So, what's the digitality of Digital Humanities? In other words, what's *digital* in the *digital* humanities? How did (still do) Digital Humanities set up specific ways to transform digital bits, to materialize them into concrete artefacts, and maybe more cultural ones (see notion of 'digital' as a culture ie Doueihi).  
 
-The answer to those question depends on *how* Digital Humanities can be defined. And this *how* is far from easy. Based on a database made of *Day of DH* quotes, Jason Heppler created the website *What is Digital Humanities* that relies on 817 different definitions of DH.
+The answer to those questions depends on *how* Digital Humanities can be defined. And this *how* is far from easy. Based on a database made of *Day of DH* quotes - a yearly event mobilising quite broadly the DH community --, Jason Heppler created the website *What is Digital Humanities* that relies on 817 different definitions of DH. Nevertheless, there are canonical definitions of Digital Humanities:
 
-Def. companion:
+> Especially since the 1990s, with the advent of the World Wide Web, digital humanities has broadened its reach, yet it has remained in touch with the goals that have animated it from the outset: using information technology to illuminate the human record, and bringing an understanding of the human record to bear on the development and use of information technology. (http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-1-3&toc.depth=1&toc.id=ss1-1-3&brand=9781405103213_brand) (@schreibmanCompanionDigitalHumanities2004).
 
-> Especially since the 1990s, with the advent of the World Wide Web, digital humanities has broadened its reach, yet it has remained in touch with the goals that have animated it from the outset: using information technology to illuminate the human record, and bringing an understanding of the human record to bear on the development and use of information technology. (http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-1-3&toc.depth=1&toc.id=ss1-1-3&brand=9781405103213_brand)
+This definition -- that also describes the transition from Humanities computing to Digital Humanities -- describes a sort of return ticket of the Humanities to information technologies. But this return-ticket 
 
+![](img/dayofquotes.png)
+
+
+# The History of Digital Humanities as a myth
 
 Origines du terme:
 
@@ -40,9 +44,6 @@ Origines du terme:
 - première conférence: Sorbonne, 2006
 
 Quelle différence avec Humanities computing? Quelle définition de base des DH? Selon définition, les Annales faisaient déjà des DH.
-
-
-# The History of Digital Humanities as a myth
 
 ## Roberto Busa, first digital humanist?
 
