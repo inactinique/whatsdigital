@@ -143,6 +143,8 @@ Many other disciplines that linguistics and litterary studies have used computer
 
 In a way the Annales were integrated into DH after 2004 => Moretti and Distant Reading + History Manifesto and *longue durée* (linked to distant reading too).
 
+To be linked to Ted Underwood's article on distant reading in litterature history => is not obligatory 'digital' (ie with computers).
+
 What does it says about the importance of the digital and which digital was important in DH? 
 
 Current reassesment of digital humanities' history. Insistance on labor / digital labor (Busa, see Nyhan).
