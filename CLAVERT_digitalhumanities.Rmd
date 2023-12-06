@@ -47,7 +47,7 @@ What's digital in Digital Humanities? The answer seems obvious, but the twod wor
 
 Questioninig the digitality of Digital Humanities is questioning those definitions and temporalities and how they are confronting within the term "digital humanities". The aim of this chapter proposal is to evaluate the *digitality* of digital humanities. In *The Archived Web* (@bruggerArchivedWebDoing2018 Chapter 2, “The Digital and the Web”), Niels Brügger notes that many publications about "digital and X" (p. XX) have been published, without much reflection on what *digital* means. If we stand from a particular use of electricity that is at the center of the binary system that is a computer, *digital* means the use of '0' (no electricity) and '1' (electricity) as an alphabet (Finnemann, quoted by Brügger[^finnemann]). The problem of such a definition of *digital* is that 0/1 are to be seen as building blocks. Let's then follow Brügger:
 
-[finnemann]: Finnemann,	N.	O.	(1999).	Modernity	modernised:	The	cultural	impact	of computerisation.	In	P.	A.	Mayer	(Ed.),	Computer,	media	and	communication (pp.	141–159).	Oxford:	Oxford	University	Press.
+[^finnemann]: Finnemann,	N.	O.	(1999).	Modernity	modernised:	The	cultural	impact	of computerisation.	In	P.	A.	Mayer	(Ed.),	Computer,	media	and	communication (pp.	141–159).	Oxford:	Oxford	University	Press.
 
 >  In the present context, the term digitality is used to capture the specific ways in which the digital bits are materialized and combined in a concrete media artifact and in concrete texts.
 
@@ -67,38 +67,22 @@ The Figure 1 is a distant reading (a quantitative approach) of those almost 800 
 
 <!-- The first part would start by analysing how DH have been writing their own history, building a myth (ie Roberto Busa), a myth is questioned since 2010-2012. -->
 
-The usual narration of Digital Humanities history starts with a meeting between Roberto Busa, a Jesuit, and his project of indexing Thomas Aquinas' full work, with IBM chairman, Thomas J. Watson, in 1946. As Roberto Busa passed away in 2011 at 97, most generations of researchers in Humanities computing and, then, Digital Humanities could still read his foreword to *A Companion to Digital Humanities* @busaCompanionDigitalHumanities.
+The usual narration of Digital Humanities history starts with a meeting between Roberto Busa, a Jesuit, and his project of indexing Thomas Aquinas' full work, with IBM chairman, Thomas J. Watson, in 1946. As Roberto Busa passed away in 2011 at 97, most generations of researchers in Humanities computing and, then, Digital Humanities could still read his foreword to *A Companion to Digital Humanities* @busaForewordPerspectivesDigital2004.
 
 Busa's project, the *Index Thomisticus*, indexed, in the end, more than 10 millions words, in 56 volumes. The first of them was published in 1974 and the publication of all volumes was completed in 1980. In the end, the *Index Thomisticus* was a *digital* project -- in the sense that it used *digital* machines that were mainframes -- with paper (it began using punchcards) or analog (tapes) inputs  and paper outputs (books). The project was then transformed into CD-ROM (19192) and into a website (2005). In the end, this project bears analog as well as digital caracteristics, influenced numerous other projects, but also bears some aspects of a myth: a key person (Roberto Busa), an influence over several generations, the insistance on text and on ways to transform text inot something that can be computed and structured (lemmatization, concordances, etc).
 
 Other usual steps of a traditional history of Digital Humanities include the creation of two associations - the Association for Literary and Linguistic Computing (ALLC) in 1973 (today, the European Association for Digital Humanities) and the Association for Computer in the Humanities (1978), the former more european and the latter being more north-american. Starting in 1988, the two associations organised a conjoint annual conference. With the Association for Computational Linguistics, both created the Text Encoding Initiative (TEI) consortium -- a major actor in Humanities computing and today in Digital Humanities that shows how Humanities Computing were rooted into the study of text. The TEI has has as a main mission to encourage *via* a common markup language the encoding and semanticization of the digital version of texts. The strong influence of computational linguistics but also of English departments (@kirschenbaumChapterWhatDigital2012) is often emphasized to explain tis part of DH history. In itself, the work within and between associations is a rather traditional (in the sense, here, of non-digital) one.
 
-A more digital step if this history is the creation of the [*Humanist* Discussion Group](https://humanist.kdl.kcl.ac.uk/) -- *Humanist* and not *Digital Humanist* -- by [Willard McCarthy](https://www.mccarty.org.uk/). 
+A more digital step if this history is the creation of the [*Humanist* Discussion Group](https://www.dhhumanist.org/) -- *Humanist* and not *Digital Humanist* nor *Conmputatinal Humanist* nor... -- by [Willard McCarthy](https://www.mccarty.org.uk/). 
 
 
+<!-- to be developped -->
 
-Further steps (with switch to Digital Humanities): 
-- 2004 Blackwell Companion to digital humanities => switch from 
-- 2005 Creation of ADHO 
-- 2006 first Digital Humanities conference (based on the joint conferences of ACH ALLC) at the good old Sorbonne!
+Around 2004, the switch from Humanities Computing to Digital humanities started. The first step of this switch was the publication of the *Blackwell Companion to Digital Humanities*, edited by Susan Schreibman, Ray Siemens and John Unsworth. The three editors, in their introduction, present the book as a turning point in Digital Humanities as “for the first time, a wide range of theorists and practitioners, those who have been active in the field for decades, and those recently involved, disciplinary experts, computer scientists, and library and information studies specialists, have been brought together to consider digital humanities as a discipline in its own right, as well as to reflect on how it relates to areas of traditional humanities scholarship.” (@schreibmanDigitalHumanitiesHumanities2004) and then pay an hommage to the work of Roberto Busa, who wrote the Foreword (@busaForewordPerspectivesDigital2004). But, observing that the field has expanded, the authors suggest a sort of definition of digital humanities: “Especially since the 1990s, with the advent of the World Wide Web, digital humanities has broadened its reach, yet it has remained in touch with the goals that have animated it from the outset: *using information technology to illuminate the human record, and bringing an understanding of the human record to bear on the development and use of information technology*.” (emphasis mine). Later in this introduction, a short mention of Humanities Computing defines it as the “interdisciplinary core" of Digital Humanities.
 
+The publication of the Companion seemed to open the way to a further institutionalization of Digital Huanities with the creation of the Association of Digital Humanities Organization (2005), an association regrouping DH associations, and being the main organizer of the regular series of Deigital Humanities conference, based on the former joint conferences of ACH and ALLC. This first annual DH conference was organized in paris, in the walls of the good old Sorbonne. Its website is not available anymore, but as an [archive](https://web.archive.org/web/20060705200829/http://www.allc-ach2006.colloques.paris-sorbonne.fr/).
 
-
-Several interpretations about the switch to Digital Humanities:
-
-- The immediate origins of Digital Humanities -- a discussion between researchers and a publisher (Blackwell): a mere rebrand (see the origins of the *Companion*)
-- others (including myself) give it another meaning: consequence of datafication (of text and humanities sources in general) / networkization (the advent of the web).
-- new practices and newcommers? DH Hype.
-
-## Roberto Busa: firther comments / elements to insert:
-
-- Reactions to his death --> see a text by S. Ramsay on his former blog (but not easy to fin, blog erased).
-- Why Busa, and what does it say of DH and their digitality / the importance of digitality for DH.
-
-
-## The Great Rename: when Humanities Computing became Digital Humanities
-
-Further elements to insert / comment:
+The switch from Humanities Computing to Digital Humanities is quite obvious when we look at Google Trends, that reflects search queries with Google Search (Figure 2).
 
 ```{python, message=FALSE, echo=FALSE}
 import pandas as pd
@@ -128,14 +112,27 @@ plt.show()
 
 Figure 2 -- Google trends: Humanities Computing and Digital Humanities.
 
+There are several possible interpretations about the switch from Humanities Computing to Digital Humanities and the changes in institutionalization that followed. The immediate origins of the *Companion* is one: the term *Digital Humanities* came up during exchanges between the editors and their publishers at Blackwell. In a way, it was a sort of rebranding: using an expression that was easily understandable (though not that welle defined), so that the book could reach a large audience. The introductory text of the *Companion* and other researchers (myself included) insisted on the long-term effects of the rise of the World Wide Web -- the editors of the Companion are insisting on “human record” and the digitization of the “human record” obviously found in the web a way of dissemination. Here, the crossing of datafication and networkization could be seen as one of the grounding stone of Digital Humanities. This rise of Digital Humanities -- whether because of a rebranding or of the advent of the web -- also gave birth to new digital practices in the Humanities: the switch to Digital Humanities corresponds also to a rise of newcommers (like myself in 2008).
+
+In 2011, Roberto Busa, who wrote the foreword of the *Companion* (without using the expression *digital humanities*), passed away. A number of blogposts payed an hommage to his work, for instance on Stephen Ramsay's blog (@ramsayFrRobertoBusa2011). If Ramsay admits that Busa was part of a wider intellectual field, he claims is importance and influence in Digital Humanities. And quotes: “Perhaps the New Criticism was taking hold in some other part of the world, but for Busa, philology was the proper hermeneutical framework.” -- founding Digital Humanities in the old European tradition, pre-1945. Humanities Computing as founded on both computers and old (european) traditions, cautionning in advance later criticism of Digital Humanities (@allingtonNeoliberalToolsArchives2016).
+
+If we can admit that Busa was part fo a wider intellectual field, why did his name because that central in Digital Humanities? Stephen Ramsay, quoting John Unsworth, seems to give the answer: “Most disciplines can’t point to a founding moment, much less a divine one.”
+
+<!-- à développer -->
+
 # A counter-history of Digital Humanities?
+
+As Ramsay wrote in 2011, “Busa was one among the many who were striving to bring computer technology — then in its early infancy — to bear on humanistic problems back in the forties. Like most dh scholars today, he was part of a much wider intellectual network.“ But some part of this intellectual network are considered today as Digital Humanities fragments and some part are not. Focusing on the French School of the Annales in history, rarely mentionned as part of the 1950s/1960s inspirators of Humanities Computing and Digital Humanities, trying to look at the “digitality" of the Annales we will try here to understand, as a sort of negative of a picture, what's not digital in Digital Humanities. 
 
 <!-- The second part would try to focus on alternative histories of DH, or rather what’s not in DH but still has some sort of digitality linked to the humanities.  For instance: what’s the digitality of the School of the Annales (the generation of Leroy-Ladurie, more precisely)? And why was it not considered Humanities Computing / DH? Is it linked to a difference in their digitality? -->
 
-## Many other disciplines that linguistics and litterary studies have used computers. Example of the Schoole of the Annales:
+## Were the Annales digital?
 
-- 1959: first article in the *Annales*, mentionning the use of computing, use of mainframes in article from 1961 (archaeology) => same mainframes as Busa (*ie* mainframes facilities from euratom). 
-- of course, all quantitative works of the Annales (Leroy Ladurie => "L'historien sera programmeur ou ne sera pas") and the braudelian *longue durée* frame that fits quite well with the use of computers.
+In 1959, two French historian published an article that is the first in a major French speaking history journal to deal with what's yet not called in French “ordinateur” of “informatique”. Using “mécanographie”, François Furet and Adeline Daumard are explaining how they were able to deal with sort of massive data, e. g. notarial records of the 18^th^ Century (@francoisfuretMethodesHistoireSociale1959). Two years later, two archaeologists, in the same journal,  cross-referenced two databases to get more information on Assyrian presence in Cappadocia (@paulgarelliEtudeParOrdinateurs1961). Though probably less focused on text than Busa's work, the French historians belonging to the Annales school, and working with large statistical series such as Emmanuel Leroy-Ladurie (@laduriePaysansLanguedoc1966), have occasionally used the same computing facilities as Busa: the euratom facilities in Ispra, Italy, are explicitely mentioned by Garelli and Gardin (@paulgarelliEtudeParOrdinateurs1961) as well as by Busa (@busaForewordPerspectivesDigital2004)[^lejeune]. The use of mainframes and quantitative data fit quite well into the *longue durée* concept defined by Fernand Braudel (@braudelHistoireSciencesSociales1958a) in 1958. A famous sentence by Le Roy Ladurie from an article in a french newsmagazine, *Le Nouvel Observateur*, even described as the future quantitative historian as obligatorily being a “programmer” (@leroyladurieFinErudits1968).  
+
+[^lejeune]: For more information on the Euratom facilities at Ispra and Digital Humanities: @lejeuneEuratomGeneseHumanites2022.
+
+<!-- histoire quantitative diminue, blah blah, tout ça mais Moretti puis Underwood -->
 
 In a way the Annales were integrated into DH after 2004, *via* Moretti and Distant Reading + History Manifesto and *longue durée* (linked to distant reading too).
 
