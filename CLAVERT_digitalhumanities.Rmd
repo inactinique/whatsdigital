@@ -2,10 +2,6 @@
 title: "What's digital about Digital Humanities?"
 authors: "Frédéric Clavert (C<sup><small>2</small></sup>DH)"
 output:
-    pdf_document:
-        fig_width: 7
-        fig_height: 6
-        fig_caption: true
     word_document:
           fig_width: 7
           fig_height: 4
@@ -41,7 +37,7 @@ Multilayered digitality within a western environment (peer review, etc). Quelque
 
 -->
 
-Fifteen years ago, the author of this chapter was participating to a digital humanities “unconference”[^thatcamp]: among the many topics discussed, the participants wondered if 'analog' and 'digital' humanities would one day converge. One answer came out: it would not be possible to see both converge without traditional humanities adopting digital humanities' practices (and for instance unconferences, openness -- open access, open data and so on -- etc.) Those practices were not all digital *per se* -- some were induced by the use of digital tools, but others seem more to be a question of diverging cultures, not necessarily linked to the use of any digital tools. Wikis, for instance, did not invent collaboration. After all, digital humanities did not only relate to Humanities and computing -- there was something more, linked to what could be called culture,.
+Fifteen years ago, the author of this chapter was participating to a digital humanities “unconference”[^thatcamp]: among the many topics discussed, the participants wondered if 'analog' and 'digital' humanities would one day converge. One answer came out: it would not be possible to see both converge without traditional humanities adopting digital humanities' practices (and for instance unconferences, openness -- open access, open data and so on -- etc.) Those practices were not all digital *per se* -- some were induced by the use of digital tools (here: digital computers and pieces of software running on it), but others seem more to be a question of diverging cultures. Wikis, for instance, did not invent collaboration. After all, digital humanities did not only relate to Humanities and computing -- there was something more, linked to what could be called culture.
 
 [^thatcamp]: That happened during THATCamp 2009. For a definition of what were THATCamps, please go to the now archived website: https://thatcamp.org/about/index.html. The anecdote here dates back to [THATCamp CHNM 2009](https://chnm2009.thatcamp.org/). One blog post discussing that can be read here: https://chnm2009.thatcamp.org/06/25/us-vs-them/index.html. The anecdote is narrated as it happened according to the author's memory -- it might have happened otherwise. 
 
@@ -156,7 +152,7 @@ The fact that the 1950s and 1960s generations of historians belonging to the Ann
 
 --> 
 
-# Digital Humanities beyond digitality
+# Digital Humanities as revolution?
 
 <!-- The third part would look at the more recent history of DH – DH itself – and look at DH beyond digitality: the question of practices, DH as a community, as a culture more than as a science or as a digital something. Defining DH as something more linked to non-digital cultural element, but based on the use of computing in the humanities. In other words, how the digital base of DH is giving birth to elements that are not digital in themselves.-->
 
@@ -166,16 +162,20 @@ The manifesto gives a definition of Digital Humanities:
 
 > Digital Humanities is not a unified field but an array of convergent practices that  explore a universe in which: a) print is no longer the exclusive or the normative  medium in which knowledge is produced and/or disseminated; instead, print finds  itself absorbed into new, multimedia configurations; and b) digital tools,  techniques, and media have altered the production and dissemination of  knowledge in the arts, human and social sciences. The Digital Humanities seeks to  play an inaugural role with respect to a world in which, no longer the sole producers, stewards, and  disseminators of knowledge or culture, universities are called upon to shape natively digital models of  scholarly discourse for the newly emergent public spheres of the present era (the www, the  blogosphere, digital libraries, etc.), to model excellence and innovation in these domains, and to  facilitate the formation of networks of knowledge production, exchange, and  dissemination that  are, at  once,  global and local.
 
-Nervetheless, the text then turns into a revolution manifesto that is more about practices -- how to set up a revolution, how to change academia, how to valorize community/team work, how to democratize knowledge, how to have knowledge gets out of Universities. The claim that DH are related to the californian counter-culture is quite central, though it might be more ambiguous than the authors thought (see @turnerCountercultureCybercultureStewart2006 -- and how Steward Brand turned counterculture into cyberculture). In the end, DH, in this text, is more an *avant-gardesque* community than a community based on digital tools or computing, though the *digital* is part of this avant-garde. Even the far more digital-centered Parisian *Manifeste des Digital HUmanities* (of which the author of this chapter took a small part in the writing) focuses on community and interdisciplinarity and not only on the use of digital tools. 
+Nervetheless, the text then turns into a revolution manifesto that is more about practices -- how to set up a revolution, how to change academia, how to valorize community/team work, how to democratize knowledge, how to have knowledge gets out of Universities. The claim that DH are related to the californian counter-culture is quite central, though it might be more ambiguous than the authors thought (see @turnerCountercultureCybercultureStewart2006 -- and how Steward Brand turned counterculture into cyberculture), or maybe was it obvious to their eyes that "digital" was linked tto the meaning Negroponte gave to it as explained in a previous chapter of this book. In the end, DH, in this text, is more an *avant-gardesque* community than a community based on digital tools or computing, though the *digital* is part of this avant-garde. Even the far more digital-centered Parisian *Manifeste des Digital HUmanities* (of which the author of this chapter took a small part in the writing) focuses on community and interdisciplinarity and not only on the use of digital tools. 
 
 # Conclusion: a multilayered digitality?
 
-What we have tried to explain in this chapter is the fact that *Digital Humanities* are not only about digital and humanities -- but also a lot about practices, community, academia and how to change it. There is an internal contradiction within DH: at the same time, the choice of a *godfather* from the catholic church and claiming for a revolution of the Humanities at the same time. The fact that Humanities Computing and then Digital Humanities were not necessary only *digital* explains that whole parts of the Humanities, including a school as important as the Annales, were not considered part of it until quite late in their history.    
+What we have tried to explain in this chapter is the fact that *Digital Humanities* are not only about digital and humanities -- but also a lot about practices, community, academia and how to change it. There is an internal contradiction within DH: at the same time, the choice of a *godfather* from the catholic church and claiming for a revolution of the Humanities at the same time. Maybe can this contradiction be compared to the one that Thomas Haigh notes for Negroponte's 1995 book, which claims were at the same time *futuristic* and conservative and in this sense digital humanities would not be an exception.
 
-In the end, the *digital* in *Digital Humanities* might relate more to a question of culture -- in the meaning that the Milad Doueihi gave it (@doueihiPourHumanismeNumerique2012): the *digital* is a question of culture, not only of sets of 0s and 1s. This gives a better hint of what are Digital Humanities: if DH are caracterized by the use of computers in Humanities, they also set specific practices, even, maybe, specific set of research questions, etc (more collective, more community-ish, supposed to be more open), though it's still being part of Humanities for other kind of practices (academic association).
+The fact that Humanities Computing and then Digital Humanities were not necessary only *digital* explains that whole parts of the Humanities, including a school as important as the Annales, were not considered part of it until quite late in their history. In a way those schools that used computers and quantitative approaches around *big data* of their times (as were serial statistics) but were not considered *digital* before after the use of digital humanities became widespread because they did not belong to this culture that developped around HUmanities computing and Digital Humanities.
 
-In fine, DH are as caracterized with non-digital elements than with digital ones, but non-digital elements are still partly based on an encounter with the computer. In this sense, we could speak about a multilayered digitality:
+In the end, the *digital* in *Digital Humanities* might relate more to a question of culture -- in the meaning that the Milad Doueihi gave it (@doueihiPourHumanismeNumerique2012): the *digital* is a question of culture, not only of sets of 0s and 1s. This gives a better hint of what are Digital Humanities: if DH are caracterized by the use of computers in Humanities, they also set specific practices, even, maybe, specific set of research questions, etc (more collective, more community-ish, supposed to be more open), though it's still being part of Humanities for other kind of practices (academic associations).
 
-- digital *stricto sensu* -- no DH without computers
-- transformation of bits into cultural digital objects
-- Traditions / practices around those cultural digital objects
+In fine, DH are as caracterized with non-digital elements than with digital ones, but non-digital elements are still partly based on an encounter with the computer. In this sense, we could speak about a multilayered *digitality*:
+
+- digital in the sense of computers, as there's no Digital Humanities without computers,
+- transformation of this use of computer in the Humanities into some sort of cultural digital objects such as wikis,
+- the emergence of practices around those cultural digital objects.
+
+In contrary to some other authors of this book, I surely adhere to an extended definition of *digital* and *digitality*, though I would not base it on any Negroponte's work. To the latter, we can oppose Milad Douehi's work (translated to English: @doueihiDigitalCultures2011a), and plead for a form of digital humanism, including within digital humanities.
