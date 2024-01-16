@@ -2,6 +2,10 @@
 title: "What's digital about Digital Humanities?"
 authors: "Frédéric Clavert (C<sup><small>2</small></sup>DH)"
 output:
+    pdf_document:
+        fig_width: 7
+        fig_height: 6
+        fig_caption: true
     word_document:
           fig_width: 7
           fig_height: 4
